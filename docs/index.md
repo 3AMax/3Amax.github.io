@@ -2,26 +2,12 @@
 hide:
   - toc
 ---
-<!--
-CHECKLIST FOR THIS PAGE:
-- [ ] Replace [YOUR NAME] with your full name (3 places)
-- [ ] Replace [YOUR JOB TITLE] with your current or target role
-- [ ] Replace [YOUR TAGLINE] with a short phrase describing your focus
-- [ ] Rewrite the About Me paragraph with your own words
-- [ ] Replace assets/images/profile.png with your actual photo (keep the filename or update it below)
-- [ ] Replace assets/images/about.png with your own image (a field photo, map, or workspace shot)
-- [ ] Edit the skill cards to match your actual skills (add, remove, or rename cards as needed)
-- [ ] Update GitHub and LinkedIn links in the Connect section
-- [ ] Add your CV PDF to docs/assets/ and update the filename in the Download CV button
--->
-
-
 
 <div class="hero">
-  <img src="assets/images/profile.png" alt="[YOUR NAME]" class="profile-photo">
-  <h1>[YOUR NAME]</h1>
-  <p><strong>[YOUR JOB TITLE]</strong></p>
-  <p><em>[YOUR TAGLINE — e.g., Turning spatial data into insights | GIS | Remote Sensing | Python]</em></p>
+  <img src="assets/images/profile.png" alt="Ahmed Abdallah Adam" class="profile-photo">
+  <h1>Ahmed Abdallah Adam</h1>
+  <p><strong>Ph.D. Scholar | Geospatial & Remote Sensing Expert</strong></p>
+  <p><em>Environmental Monitoring | Climate Change | GeoAI | Google Earth Engine</em></p>
 </div>
 
 ---
@@ -31,20 +17,16 @@ CHECKLIST FOR THIS PAGE:
 <div class="about-section" markdown>
 <div class="about-text" markdown>
 
-[Replace this paragraph with your own bio. Write 3–4 sentences covering: your background and
-what you specialize in, the kinds of problems you work on, the tools and methods you use,
-and what you are currently looking for. Example below:]
+I am a **Ph.D. Scholar** and Geospatial Expert with over 2 years of research experience specializing in **Remote Sensing** and **Climatology**. My work is dedicated to leveraging modern geospatial technologies for societal benefit, with a core focus on environmental analysis, climate change monitoring, and the assessment of carbon and biomass.
 
-I am a geospatial data scientist with a background in remote sensing and machine learning.
-I work on extracting actionable insights from satellite imagery and large spatial datasets
-using Python, Google Earth Engine, and open-source GIS tools. I am passionate about applying
-GeoAI techniques to real-world challenges in land use mapping, climate monitoring, and urban
-planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TARGET LOCATION].
+I am highly proficient in **ArcGIS**, **QGIS**, and **Google Earth Engine (GEE)**, where I integrate **Machine Learning** methodologies with big data analysis to solve complex spatial problems. By bridging the gap between raw satellite imagery and actionable environmental insights, I aim to provide data-driven solutions for global ecological challenges.
+
+Currently, I am advancing research in geospatial methodologies that support climate resilience and sustainable resource management. I am seeking opportunities to collaborate on innovative projects in **Geospatial Data Science** and **Environmental Research** where I can apply my technical expertise to real-world impact.
 
 </div>
 
 <div class="about-image">
-  <img src="assets/images/about.png" alt="About">
+  <img src="assets/images/about.png" alt="About Ahmed Adam">
 </div>
 
 </div>
@@ -52,7 +34,7 @@ planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TA
 ---
 
 [View My Projects :material-arrow-right:](projects/index.md){ .md-button .md-button--primary }
-[Download CV :material-download:](assets/[YOUR-NAME]-CV.pdf){ .md-button }
+[Download CV :material-download:](assets/Adam-CV.pdf){ .md-button }
 
 
 ---
@@ -65,51 +47,38 @@ planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TA
 
     ---
 
-    - QGIS, ArcGIS Pro, Google Earth Engine
-    - GDAL / OGR, GRASS GIS
-    - Multispectral and SAR image analysis
-    - Cloud Native Geospatial (COG, STAC, Zarr)
+    - Google Earth Engine (GEE), ArcGIS Pro, QGIS
+    - Multispectral & Hyperspectral Image Analysis
+    - Environmental Monitoring & Land Cover Mapping
+    - Carbon & Biomass Estimation
 
--   :material-code-braces:{ .lg .middle } **Programming**
+-   :material-code-braces:{ .lg .middle } **Programming & Big Data**
 
     ---
 
-    - Python — GeoPandas, NumPy, Pandas, Matplotlib
-    - R — sf, terra, ggplot2
-    - JavaScript — Leaflet, MapLibre GL
-    - SQL, PostgreSQL + PostGIS
+    - Python — GeoPandas, NumPy, Pandas
+    - JavaScript — Google Earth Engine API
+    - SQL for Spatial Databases
+    - Big Data Analysis for Climatology
 
 -   :material-star-four-points:{ .lg .middle } **Machine Learning & GeoAI**
 
     ---
 
-    - Supervised classification — Random Forest, XGBoost
-    - Deep learning for image segmentation — U-Net, SAM
-    - scikit-learn, PyTorch, TensorFlow
-    - Object detection in satellite imagery
+    - Supervised & Unsupervised Classification
+    - Random Forest, SVM, and XGBoost for Spatial Data
+    - Predictive Modeling for Climate Trends
+    - Deep Learning for Feature Extraction
 
--   :material-earth:{ .lg .middle } **Web Mapping & Data**
-
-    ---
-
-    - Leaflet.js, Folium, MapLibre GL JS
-    - Cloud storage — AWS S3, Google Cloud Storage
-    - Data formats — GeoTIFF, GeoParquet, NetCDF
-    - Streamlit for data-driven web apps
-
--   :material-database:{ .lg .middle } **Data & Cloud**
+-   :material-earth:{ .lg .middle } **Climatology & Research**
 
     ---
 
-    - PostgreSQL + PostGIS
-    - Cloud storage: AWS S3, Google Cloud Storage
-    - Data formats: GeoJSON, GeoTIFF, NetCDF, Zarr, GeoParquet
+    - Climate Change Impact Analysis
+    - Time-series Analysis of Satellite Data
+    - Scientific Writing & Research Methodology
+    - Data-driven Policy Insights
 
--   :material-airplane:{ .lg .middle } **Drone / UAV Data Processing**
-
-    - Mission planning and flight operations
-    - Photogrammetry: Agisoft Metashape, OpenDroneMap
-    - Point cloud processing: CloudCompare, PDAL
 </div>
 
 
@@ -117,5 +86,6 @@ planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TA
 
 ## Connect
 
-[GitHub](https://github.com/[YOUR-GITHUB-USERNAME]){ .md-button }
-[LinkedIn](https://linkedin.com/in/[YOUR-LINKEDIN-USERNAME]){ .md-button }
+[GitHub](https://github.com/3AMax){ .md-button }
+[LinkedIn](https://www.linkedin.com/in/ahmed-abdallah-adam/){ .md-button }
+[ResearchGate](https://www.researchgate.net/profile/Ahmed-Adam-49){ .md-button }
