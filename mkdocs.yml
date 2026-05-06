@@ -3,8 +3,8 @@
 # ============================================================
 
 site_name: "Max - Geospatial Portfolio"
-site_description: "Portfolio of Max — GIS, Remote Sensing, and Spatial Data Science"
-site_author: "Max"
+site_description: "Portfolio of Ahmed Adam — GIS, Remote Sensing, and Spatial Data Science"
+site_author: "A.A. Adam"
 site_url: "https://3AMax.github.io/"
 
 theme:
@@ -46,14 +46,16 @@ markdown_extensions:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
-copyright: "Copyright &copy; 2026 Max"
+copyright: "Copyright &copy; 2026 Ahmed Abdallah Adam"
 
 extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/3AMax
     - icon: fontawesome/brands/linkedin
-      link: https://www.linkedin.com/in/ahmed-abdallah-adam/ # Update this slug if different
+      link: https://www.linkedin.com/in/ahmed-abdallah-adam/ 
+    - icon: fontawesome/brands/researchgate
+      link: https://www.researchgate.net/profile/Ahmed-Adam-49
     - icon: material/email
       link: mailto:ahmed.abdallah.adam94@gmail.com
 
