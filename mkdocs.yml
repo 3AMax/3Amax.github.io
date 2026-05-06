@@ -13,14 +13,14 @@ theme:
     logo: material/earth
   palette:
     - scheme: default            # Light mode
-      primary: indigo
-      accent: blue
+      primary: teal              # Clean AI primary
+      accent: deep purple        # "Fancy AI" accent
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
     - scheme: slate              # Dark mode
-      primary: indigo
-      accent: blue
+      primary: teal
+      accent: deep purple
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
