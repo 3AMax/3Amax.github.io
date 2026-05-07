@@ -29,8 +29,6 @@ hide:
 ### M.Sc. in Ecology and Environment Studies
 **Nalanda University, India** | *2021 – 2023*
 
-Focused on remote sensing and GIS applications in environmental science, including wetland mapping in the Eastern Himalayas (Arunachal Pradesh) and Land Use / Land Cover (LULC) change modeling.
-
 ---
 
 ### High Diploma in General Translation
