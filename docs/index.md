@@ -4,7 +4,7 @@ hide:
 ---
 
 <div style="
-    background-image:url('assets/images/background.JPEG');
+    background-image:url('docs/assets/imagesbackground.JPEG');
     background-size:cover;
     background-position:center;
     padding:6rem 1rem;
@@ -22,7 +22,7 @@ hide:
 
 <div style="position:relative; z-index:1;">
 
-![](assets/images/profile.png){ width="180" style="border-radius:50%; border:5px solid white;" }
+![](docs/assets/images/profile.png){ width="180" style="border-radius:50%; border:5px solid white;" }
 
 # <span style="color:white;">Ahmed Abdallah Adam</span>
 
