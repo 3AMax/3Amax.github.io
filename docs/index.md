@@ -52,25 +52,30 @@ Environmental Monitoring • Climate Change • GeoAI • Google Earth Engine
 
 <div style="flex:2; min-width:300px;">
 
-I am a **Ph.D. Scholar** and Geospatial Researcher specializing in:
+I am a **Ph.D. Scholar** and Geospatial Researcher specializing in **Remote Sensing**, **Climatology**, **GeoAI**, and **Environmental Monitoring**.
 
-- Remote Sensing
-- Climatology
-- GeoAI
-- Environmental Monitoring
-- Geospatial Data Science
+My research focuses on integrating satellite remote sensing, cloud computing, and machine learning techniques to analyze environmental dynamics and support sustainable decision-making.
 
-My work focuses on applying satellite imagery, machine learning, and cloud-based geospatial technologies to address environmental and climate-related challenges.
-
-## Technical Expertise
+I work extensively with:
 
 - Google Earth Engine (GEE)
-- ArcGIS Pro
-- QGIS
+- ArcGIS Pro & QGIS
 - Python for Geospatial Analysis
-- Spatial Data Science & Machine Learning
+- Machine Learning for Spatial Modeling
+- Earth Observation & Time-Series Analysis
 
-My research interests include climate resilience, carbon and biomass estimation, land cover dynamics, and sustainable ecosystem management.
+My academic interests include:
+
+- Land Use / Land Cover (LULC) Change Detection
+- Climate Change Monitoring
+- Carbon & Biomass Estimation
+- Spatial Data Science
+- Environmental Sustainability
+- GeoAI Applications in Earth Observation
+
+I am particularly interested in leveraging cloud-based geospatial platforms such as **Google Earth Engine** to process large-scale satellite datasets for environmental monitoring and climate resilience research.
+
+My work contributes to advancing data-driven approaches for ecosystem management, land degradation assessment, and sustainable environmental planning.
 
 </div>
 
@@ -92,11 +97,12 @@ My research interests include climate resilience, carbon and biomass estimation,
 
     ---
 
-    - Google Earth Engine
+    - Google Earth Engine (GEE)
     - ArcGIS Pro & QGIS
     - Land Cover Mapping
     - Environmental Monitoring
     - Carbon & Biomass Estimation
+    - Multispectral Image Analysis
 
 - :material-code-braces:{ .lg .middle } **Programming & Data Science**
 
@@ -106,6 +112,7 @@ My research interests include climate resilience, carbon and biomass estimation,
     - JavaScript for GEE
     - SQL & Spatial Databases
     - Geospatial Data Processing
+    - Big Data Analytics
 
 - :material-brain:{ .lg .middle } **Machine Learning & GeoAI**
 
@@ -115,8 +122,9 @@ My research interests include climate resilience, carbon and biomass estimation,
     - SVM & XGBoost
     - Predictive Climate Modeling
     - Spatial Feature Extraction
+    - Deep Learning Applications
 
-- :material-chart-line:{ .lg .middle } **Research & Analysis**
+- :material-chart-line:{ .lg .middle } **Research & Environmental Analysis**
 
     ---
 
@@ -124,6 +132,7 @@ My research interests include climate resilience, carbon and biomass estimation,
     - Time-Series Analysis
     - Scientific Writing
     - Environmental Research
+    - Sustainable Ecosystem Assessment
 
 </div>
 
@@ -139,6 +148,8 @@ My research interests include climate resilience, carbon and biomass estimation,
 - Environmental Sustainability
 - Earth Observation Technologies
 - Land Use / Land Cover Dynamics
+- Carbon Cycle Assessment
+- Sustainable Resource Management
 
 </div>
 
