@@ -41,7 +41,7 @@ My goal is to transform satellite imagery and geospatial big data into actionabl
     box-shadow:0 8px 24px rgba(0,0,0,.12);
 ">
 
-![](assets/images/about.png)
+![](doc/assets/images/about.png)
 
 <div style="padding:1rem 1.2rem;">
 
