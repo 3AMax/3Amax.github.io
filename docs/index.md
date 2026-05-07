@@ -4,38 +4,23 @@ hide:
 ---
 
 <div style="
-    background-image:url('assets/images/background.JPEG');
-    background-size:cover;
-    background-position:center;
-    padding:6rem 1rem;
-    border-radius:20px;
+    padding:5rem 1rem 3rem;
     text-align:center;
-    position:relative;
-    overflow:hidden;
     margin-bottom:2rem;
 ">
 
-<div style="
-    position:absolute;
-    inset:0;
-    background:rgba(0,0,0,0.55);
-"></div>
+![](assets/images/profile.png){ width="180" style="border-radius:50%; border:5px solid var(--md-primary-fg-color); box-shadow:0 8px 24px rgba(0,0,0,.20);" }
 
-<div style="position:relative; z-index:1;">
+# Ahmed Abdallah Adam
 
-![](assets/images/profile.png){ width="180" style="border-radius:50%; border:5px solid white; box-shadow:0 8px 24px rgba(0,0,0,.35);" }
+### Ph.D. Scholar | Geospatial & Remote Sensing Expert
 
-# <span style="color:white;">Ahmed Abdallah Adam</span>
-
-### <span style="color:white;">Ph.D. Scholar | Geospatial & Remote Sensing Expert</span>
-
-<p style="color:white; font-size:1.1rem;">
+<p style="font-size:1.1rem;">
 Environmental Monitoring • Climate Change • GeoAI • Google Earth Engine
 </p>
 
 [Download CV](assets/Adam-CV.pdf){ .md-button .md-button--primary }
 
-</div>
 </div>
 
 ---
