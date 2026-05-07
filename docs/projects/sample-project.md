@@ -5,7 +5,7 @@ title: Soil Erosion Assessment in Aizawl
 
 # Hybrid Machine Learning-RUSLE Approach for Soil Erosion Assessment
 
-![Project overview image](../assets/images/<cover>.png)
+![Project overview image](../assets/images/cover.png)
 
 ## Overview
 
