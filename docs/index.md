@@ -4,29 +4,34 @@ hide:
 ---
 
 <div markdown="1" style="
-    padding:5rem 1rem 3rem;
-    text-align:center;
-    margin-bottom:2rem;
+    padding: 5rem 1rem 3rem;
+    text-align: center;
+    margin-bottom: 2rem;
 ">
 
-<img src="assets/images/profile.png"
-     width="180"
-     style="
+<img
+    src="assets/images/profile.png"
+    width="180"
+    style="
         border-radius:50%;
         border:5px solid var(--md-primary-fg-color);
         box-shadow:0 8px 24px rgba(0,0,0,.20);
-     ">
+    "
+/>
 
 # Ahmed Abdallah Adam
 
 ### Ph.D. Scholar | Geospatial & Remote Sensing Expert
 
-<p style="font-size:1.1rem;">
+<p style="font-size:1.15rem;">
 Environmental Monitoring • Climate Change • GeoAI • Google Earth Engine
 </p>
 
-<a href="assets/Adam-CV.pdf" class="md-button md-button--primary">
-Download CV
+<a
+    href="assets/Adam-CV.pdf"
+    class="md-button md-button--primary"
+>
+    Download CV
 </a>
 
 </div>
@@ -35,7 +40,7 @@ Download CV
 
 # About Me
 
-<div style="
+<div markdown="1" style="
     display:flex;
     align-items:center;
     gap:2rem;
@@ -74,12 +79,14 @@ My work contributes to advancing data-driven approaches for ecosystem management
 
 <div style="flex:1; min-width:280px; text-align:center;">
 
-<img src="assets/images/about.png"
-     style="
+<img
+    src="assets/images/about.png"
+    style="
         width:100%;
         border-radius:16px;
         box-shadow:0 6px 18px rgba(0,0,0,.12);
-     ">
+    "
+/>
 
 </div>
 
