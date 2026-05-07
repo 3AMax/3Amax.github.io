@@ -3,13 +3,19 @@ hide:
   - toc
 ---
 
-<div style="
+<div markdown="1" style="
     padding:5rem 1rem 3rem;
     text-align:center;
     margin-bottom:2rem;
 ">
 
-![](assets/images/profile.png){ width="180" style="border-radius:50%; border:5px solid var(--md-primary-fg-color); box-shadow:0 8px 24px rgba(0,0,0,.20);" }
+<img src="assets/images/profile.png"
+     width="180"
+     style="
+        border-radius:50%;
+        border:5px solid var(--md-primary-fg-color);
+        box-shadow:0 8px 24px rgba(0,0,0,.20);
+     ">
 
 # Ahmed Abdallah Adam
 
@@ -19,7 +25,9 @@ hide:
 Environmental Monitoring • Climate Change • GeoAI • Google Earth Engine
 </p>
 
-[Download CV](assets/Adam-CV.pdf){ .md-button .md-button--primary }
+<a href="assets/Adam-CV.pdf" class="md-button md-button--primary">
+Download CV
+</a>
 
 </div>
 
@@ -41,7 +49,7 @@ I am a **Ph.D. Scholar** and Geospatial Researcher specializing in **Remote Sens
 
 My research focuses on integrating satellite remote sensing, cloud computing, and machine learning techniques to analyze environmental dynamics and support sustainable decision-making.
 
-I work extensively with:
+## Core Expertise
 
 - Google Earth Engine (GEE)
 - ArcGIS Pro & QGIS
@@ -49,7 +57,7 @@ I work extensively with:
 - Machine Learning for Spatial Modeling
 - Earth Observation & Time-Series Analysis
 
-My academic interests include:
+## Research Areas
 
 - Land Use / Land Cover (LULC) Change Detection
 - Climate Change Monitoring
@@ -66,7 +74,12 @@ My work contributes to advancing data-driven approaches for ecosystem management
 
 <div style="flex:1; min-width:280px; text-align:center;">
 
-![](assets/images/about.png){ width="100%" style="border-radius:16px; box-shadow:0 6px 18px rgba(0,0,0,.12);" }
+<img src="assets/images/about.png"
+     style="
+        width:100%;
+        border-radius:16px;
+        box-shadow:0 6px 18px rgba(0,0,0,.12);
+     ">
 
 </div>
 
@@ -149,12 +162,20 @@ My work contributes to advancing data-driven approaches for ecosystem management
     margin-top:1rem;
 ">
 
-[GitHub](https://github.com/3AMax){ .md-button target="_blank" }
+<a href="https://github.com/3AMax" class="md-button" target="_blank">
+GitHub
+</a>
 
-[LinkedIn](https://www.linkedin.com/in/ahmed-abdallah-adam-aaam/){ .md-button target="_blank" }
+<a href="https://www.linkedin.com/in/ahmed-abdallah-adam-aaam/" class="md-button" target="_blank">
+LinkedIn
+</a>
 
-[ResearchGate](https://www.researchgate.net/profile/Ahmed-Adam-49?ev=hdr_xprf){ .md-button target="_blank" }
+<a href="https://www.researchgate.net/profile/Ahmed-Adam-49?ev=hdr_xprf" class="md-button" target="_blank">
+ResearchGate
+</a>
 
-[Google Scholar](https://scholar.google.com/citations?hl=en&user=1oX9lpoAAAAJ){ .md-button target="_blank" }
+<a href="https://scholar.google.com/citations?hl=en&user=1oX9lpoAAAAJ" class="md-button" target="_blank">
+Google Scholar
+</a>
 
 </div>
