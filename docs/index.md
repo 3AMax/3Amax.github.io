@@ -5,16 +5,7 @@ hide:
 
 <div style="text-align:center; padding:3rem 1rem;">
 
-<img src="/assets/images/profile.png"
-     alt="Ahmed Abdallah Adam"
-     width="170"
-     height="170"
-     style="
-        border-radius:50%;
-        object-fit:cover;
-        border:4px solid var(--md-primary-fg-color);
-        box-shadow:0 6px 18px rgba(0,0,0,.15);
-     ">
+![](assets/images/profile.png){ width="170" style="border-radius:50%; border:4px solid var(--md-primary-fg-color); box-shadow:0 6px 18px rgba(0,0,0,.15);" }
 
 # Ahmed Abdallah Adam
 
@@ -24,7 +15,7 @@ hide:
 
 <div style="margin-top:1.5rem;">
 
-<a href="/assets/Adam-CV.pdf"
+<a href="assets/Adam-CV.pdf"
    class="md-button md-button--primary"
    target="_blank">
    Download CV
@@ -52,29 +43,22 @@ I am a **Ph.D. Scholar** and Geospatial Expert specializing in **Remote Sensing*
 
 My research focuses on applying modern geospatial technologies to environmental monitoring, climate change analysis, and sustainable environmental management.
 
-I have expertise in:
+## Areas of Expertise
 
 - Google Earth Engine (GEE)
 - ArcGIS Pro & QGIS
 - Spatial Data Science
 - Machine Learning & GeoAI
-- Climate and Environmental Modeling
+- Climate & Environmental Modeling
+- Carbon & Biomass Assessment
 
-I integrate satellite imagery, geospatial analytics, and AI-driven methodologies to generate actionable insights for real-world environmental challenges.
-
-My current research interests include climate resilience, land cover dynamics, carbon estimation, biomass assessment, and sustainable ecosystem monitoring.
+I integrate satellite imagery, geospatial analytics, and AI-driven methodologies to generate actionable insights for environmental and climate-related challenges.
 
 </div>
 
 <div style="flex:1; min-width:260px; text-align:center;">
 
-<img src="/assets/images/about.png"
-     alt="About Ahmed Adam"
-     style="
-        width:100%;
-        border-radius:14px;
-        box-shadow:0 6px 18px rgba(0,0,0,.12);
-     ">
+![](assets/images/about.png){ style="border-radius:14px; box-shadow:0 6px 18px rgba(0,0,0,.12);" }
 
 </div>
 
