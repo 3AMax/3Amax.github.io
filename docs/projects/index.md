@@ -10,7 +10,7 @@ A selection of my geospatial projects. Click any card to see the full write-up.
 <div class="grid cards" markdown>
 
 <div class="card">
-  <img src="../assets/images/cover.png" alt="Soil Erosion Study"> 
+  <img src="../assets/images/cover_.png" alt="Soil Erosion Study"> 
   <div class="container">
     <h3>Soil Erosion Assessment</h3>
     <p>Hybrid Machine Learning-RUSLE approach for soil erosion assessment in Aizawl district, Mizoram.</p>
