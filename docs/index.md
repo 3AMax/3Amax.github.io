@@ -13,7 +13,7 @@ hide:
 ">
 
 <img
-    src="./assets/images/profile.png"
+    src="assets/images/profile.png"
     alt="Ahmed Abdallah Adam"
     style="
         width: 280px;
@@ -48,7 +48,7 @@ Environmental Monitoring • Climate Change • GeoAI • Google Earth Engine
 <p style="margin-top:1.5rem;">
 
 <a
-    href=".docs/assets/Adam-CV.pdf"
+    href="assets/Adam-CV.pdf"
     class="md-button md-button--primary"
     target="_blank"
 >
@@ -133,7 +133,7 @@ land degradation assessment, and sustainable environmental planning.
 <div style="text-align:center;">
 
 <img
-    src="./assets/images/about.png"
+    src="assets/images/about.png"
     alt="About Ahmed"
     style="
         width:100%;
