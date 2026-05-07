@@ -93,7 +93,7 @@ cloud computing, and machine learning techniques
 to analyze environmental dynamics and support sustainable decision-making.
 </p>
 
-<h3>Core Expertise</h3>
+<h3>I Work Extensively With</h3>
 
 <ul>
 <li>Google Earth Engine (GEE)</li>
@@ -103,7 +103,7 @@ to analyze environmental dynamics and support sustainable decision-making.
 <li>Earth Observation & Time-Series Analysis</li>
 </ul>
 
-<h3>Research Areas</h3>
+<h3>Academic Interests</h3>
 
 <ul>
 <li>Land Use / Land Cover (LULC) Change Detection</li>
