@@ -2,13 +2,6 @@
 hide:
   - toc
 ---
-<!--
-CHECKLIST FOR THIS PAGE:
-- [ ] Replace each [YOUR ...] placeholder with your actual information
-- [ ] Add or remove job entries as needed (copy the format of an existing entry)
-- [ ] Add or remove education entries
-- [ ] Add or remove certifications
--->
 
 # Experience & Education
 
@@ -18,23 +11,12 @@ CHECKLIST FOR THIS PAGE:
 
 <div class="timeline-entry" markdown>
 
-### [YOUR JOB TITLE] — [YOUR COMPANY / ORGANIZATION]
-*[Month Year] – [Month Year or Present] | [City, Country]*
+### Executive Officer Member — National Service
+*November 2019 – November 2020 | Sudan*
 
-- [Describe your main responsibility or achievement in one sentence]
-- [Describe another key task, project, or result]
-- [Describe a tool, method, or skill you applied regularly]
-
-</div>
-
-<div class="timeline-entry" markdown>
-
-### [YOUR PREVIOUS JOB TITLE] — [YOUR PREVIOUS COMPANY]
-*[Month Year] – [Month Year] | [City, Country]*
-
-- [Describe your main responsibility or achievement in one sentence]
-- [Describe another key task, project, or result]
-- [Describe a tool, method, or skill you applied regularly]
+- Prepared quarterly and annual reports for organizational records and stakeholder communication.
+- Managed supply chain operations to ensure efficient resource distribution.
+- Collaborated with cross-community teams to plan and execute local developmental projects.
 
 </div>
 
@@ -44,22 +26,30 @@ CHECKLIST FOR THIS PAGE:
 
 ## Education
 
-### [YOUR DEGREE] in [YOUR FIELD]
-**[YOUR UNIVERSITY]** | *[Year of Graduation]*
+### M.Sc. in Ecology and Environment Studies
+**Nalanda University, India** | *2021 – 2023*
 
-[Optional: one sentence about your thesis, specialization, or coursework if relevant]
+Focused on remote sensing and GIS applications in environmental science, including wetland mapping in the Eastern Himalayas (Arunachal Pradesh) and Land Use / Land Cover (LULC) change modeling.
 
 ---
 
-### [YOUR PREVIOUS DEGREE] in [YOUR FIELD]
-**[YOUR UNIVERSITY]** | *[Year of Graduation]*
+### High Diploma in General Translation
+**Bahri University, Sudan** | *2020 – 2021*
+
+---
+
+### B.Sc. in Natural Resource and Environmental Studies
+**Bahri University, Sudan** | *December 2013 – July 2018*
 
 ---
 
 ## Certifications
 
-- [Certification Name] — [Issuing Organization], [Year]
-- [Certification Name] — [Issuing Organization], [Year]
-- [Certification Name] — [Issuing Organization], [Year]
-
-*Examples: QGIS Certification, PMP Certification, AWS Certified Cloud Practitioner*
+- End-to-End Google Earth Engine — Google Earth Engine, 2023
+- Complete Google Earth Engine for RS & GIS (Beginner to Advanced) — 2023
+- Project Management Professional (PMP) — PMI
+- Risk Assessment and Accident Investigation
+- Supply Chain Management
+- Occupational Health and Safety
+- NGO Project Design, Coordination, Monitoring, and Evaluation
+- Human Resource Management
