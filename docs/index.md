@@ -3,15 +3,35 @@ hide:
   - toc
 ---
 
-<div style="text-align:center; padding:3rem 1rem;">
+<div style="
+    background-image:url('assets/images/background.JPEG');
+    background-size:cover;
+    background-position:center;
+    padding:6rem 1rem;
+    border-radius:20px;
+    text-align:center;
+    position:relative;
+    overflow:hidden;
+    margin-bottom:2rem;
+">
 
-![](assets/images/profile.png){ width="170" style="border-radius:50%; border:4px solid var(--md-primary-fg-color); box-shadow:0 6px 18px rgba(0,0,0,.15);" }
+<div style="
+    position:absolute;
+    inset:0;
+    background:rgba(0,0,0,0.55);
+"></div>
 
-# Ahmed Abdallah Adam
+<div style="position:relative; z-index:1;">
 
-## Ph.D. Scholar | Geospatial & Remote Sensing Expert
+![](assets/images/profile.png){ width="180" style="border-radius:50%; border:5px solid white; box-shadow:0 8px 24px rgba(0,0,0,.35);" }
 
-*Environmental Monitoring • Climate Change • GeoAI • Google Earth Engine*
+# <span style="color:white;">Ahmed Abdallah Adam</span>
+
+## <span style="color:white;">Ph.D. Scholar | Geospatial & Remote Sensing Expert</span>
+
+<p style="color:white; font-size:1.1rem;">
+Environmental Monitoring • Climate Change • GeoAI • Google Earth Engine
+</p>
 
 <div style="margin-top:1.5rem;">
 
@@ -25,44 +45,31 @@ hide:
 
 </div>
 
+</div>
+
 ---
 
 # About Me
 
-<div style="
-    display:flex;
-    align-items:center;
-    gap:2rem;
-    flex-wrap:wrap;
-    margin-top:2rem;
-">
-
-<div style="flex:2; min-width:300px;">
-
 I am a **Ph.D. Scholar** and Geospatial Expert specializing in **Remote Sensing**, **Climatology**, and **Geospatial Data Science**.
 
-My research focuses on applying modern geospatial technologies to environmental monitoring, climate change analysis, and sustainable environmental management.
+My research focuses on applying modern geospatial technologies to:
 
-## Areas of Expertise
+- Climate Change Monitoring
+- Environmental Analysis
+- Carbon & Biomass Estimation
+- GeoAI Applications
+- Sustainable Resource Management
+
+I work extensively with:
 
 - Google Earth Engine (GEE)
-- ArcGIS Pro & QGIS
-- Spatial Data Science
-- Machine Learning & GeoAI
-- Climate & Environmental Modeling
-- Carbon & Biomass Assessment
+- ArcGIS Pro
+- QGIS
+- Python for Geospatial Analysis
+- Machine Learning & Spatial Modeling
 
-I integrate satellite imagery, geospatial analytics, and AI-driven methodologies to generate actionable insights for environmental and climate-related challenges.
-
-</div>
-
-<div style="flex:1; min-width:260px; text-align:center;">
-
-![](assets/images/about.png){ style="border-radius:14px; box-shadow:0 6px 18px rgba(0,0,0,.12);" }
-
-</div>
-
-</div>
+My goal is to transform satellite imagery and geospatial big data into actionable environmental insights that support climate resilience and sustainable development.
 
 ---
 
@@ -76,10 +83,10 @@ I integrate satellite imagery, geospatial analytics, and AI-driven methodologies
 
     - Google Earth Engine (GEE)
     - ArcGIS Pro & QGIS
-    - Land Cover Classification
+    - Land Cover Mapping
     - Environmental Monitoring
     - Carbon & Biomass Estimation
-    - Multispectral Image Analysis
+    - Multispectral Analysis
 
 - :material-code-braces:{ .lg .middle } **Programming & Data Science**
 
@@ -96,17 +103,17 @@ I integrate satellite imagery, geospatial analytics, and AI-driven methodologies
     ---
 
     - Random Forest & SVM
-    - XGBoost for Spatial Prediction
+    - XGBoost Models
     - Predictive Climate Modeling
-    - Deep Learning Applications
     - Spatial Feature Extraction
+    - Deep Learning Applications
 
-- :material-chart-line:{ .lg .middle } **Climate & Environmental Research**
+- :material-chart-line:{ .lg .middle } **Research & Climatology**
 
     ---
 
     - Climate Change Analysis
-    - Time-Series Satellite Analysis
+    - Time-Series Analysis
     - Scientific Writing
     - Environmental Policy Support
     - Research Methodology
@@ -126,7 +133,7 @@ I integrate satellite imagery, geospatial analytics, and AI-driven methodologies
 - Carbon Cycle Assessment
 - Land Use / Land Cover Dynamics
 - Earth Observation Technologies
-- Sustainable Resource Management
+- Sustainable Ecosystem Management
 
 </div>
 
@@ -134,12 +141,7 @@ I integrate satellite imagery, geospatial analytics, and AI-driven methodologies
 
 # Connect With Me
 
-<div style="
-    display:flex;
-    flex-wrap:wrap;
-    gap:12px;
-    margin-top:1rem;
-">
+<div style="display:flex; flex-wrap:wrap; gap:12px; margin-top:1rem;">
 
 <a href="https://github.com/3AMax"
    class="md-button"
