@@ -2,45 +2,39 @@
 hide:
   - toc
 ---
-<!--
-CHECKLIST FOR THIS PAGE:
-- [ ] Replace the two placeholder cards (marked [YOUR PROJECT ...]) with your real projects
-- [ ] For each project: add a thumbnail image to docs/assets/images/ and update the path below
-- [ ] For each project: create a project page by copying sample-project.md
-- [ ] For each project: add a nav entry in mkdocs.yml (see the comments there)
-- [ ] Delete placeholder cards you don't need yet
--->
 
 # Projects
 
 A selection of my geospatial projects. Click any card to see the full write-up.
 
-<div class="grid" markdown>
+<div class="grid cards" markdown>
 
-<div class="project-card" markdown>
-![](../assets/images/placeholder-project.png)
-
-**[Sample Project](sample-project.md)**
-
-[YOUR PROJECT DESCRIPTION — one or two sentences: what you did, what data you used,
-and what you found or built.]
-
-`[TOOL 1]` `[TOOL 2]` `[TOOL 3]`
-
-[View Project →](sample-project.md){ .md-button }
+<div class="card">
+  <img src="../assets/images/cover.png" alt="Soil Erosion Study"> 
+  <div class="container">
+    <h3>Soil Erosion Assessment</h3>
+    <p>Hybrid Machine Learning-RUSLE approach for soil erosion assessment in Aizawl district, Mizoram.</p>
+    
+    <span class="tag">Google Earth Engine</span>
+    <span class="tag">ArcGIS</span>
+    <span class="tag">Random Forest</span>
+    
+    <a href="erosion-study/" class="btn">View Project →</a>
+  </div>
 </div>
 
-<div class="project-card" markdown>
-![](../assets/images/placeholder-notebook.png)
-
-**[Sample Notebook](sample-notebook.ipynb)**
-
-[YOUR PROJECT DESCRIPTION — one or two sentences: what you did, what data you used,
-and what you found or built.]
-
-`Python` `pandas` `Folium`
-
-[View Project →](sample-notebook.ipynb){ .md-button }
+<div class="card">
+  <img src="../assets/images/placeholder-notebook.png" alt="Sample Notebook"> 
+  <div class="container">
+    <h3>Geospatial Notebook</h3>
+    <p>A collection of Python-based spatial analysis workflows using GeoPandas and Folium.</p>
+    
+    <span class="tag">Python</span>
+    <span class="tag">Pandas</span>
+    <span class="tag">Folium</span>
+    
+    <a href="sample-notebook/" class="btn">View Project →</a>
+  </div>
 </div>
 
 </div>
