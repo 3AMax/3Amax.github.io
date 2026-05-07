@@ -6,7 +6,7 @@ title: Aizawl Soil Erosion Study
 # Hybrid Machine Learning-RUSLE Approach for Soil Erosion Assessment
 *A Study of Aizawl District, Mizoram, Northeast India*
 
-![Project Hero Image](../assets/images/cover.png)
+![Project Hero Image](../assets/images/cover_.png)
 
 ## Overview
 
