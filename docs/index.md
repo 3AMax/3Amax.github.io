@@ -11,7 +11,17 @@ hide:
 </div>
 
 ---
-
+<div class="card">
+  <img src="../assets/images/cover.png" alt="Soil Erosion Study"> 
+  <div class="container">
+    <h3>Soil Erosion Assessment</h3>
+    <p>Hybrid Machine Learning-RUSLE approach for soil erosion assessment in Aizawl district.</p>
+    <span class="tag">Google Earth Engine</span>
+    <span class="tag">ArcGIS</span>
+    <span class="tag">Random Forest</span>
+    <a href="erosion-study/" class="btn">View Project →</a>
+  </div>
+</div>
 ## About Me
 
 <div class="about-section" markdown>
