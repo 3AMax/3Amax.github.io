@@ -4,15 +4,13 @@ hide:
 ---
 
 <div class="hero" style="text-align: center; padding: 2rem 0;">
-  <img src="assets/images/profile.png" alt="Ahmed Abdallah Adam" class="profile-photo" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;">
+  <img src="assets/images/profile.png" alt="Ahmed Abdallah Adam" class="profile-photo" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover; border: 3px solid var(--md-primary-fg-color);">
   <h1>Ahmed Abdallah Adam</h1>
   <p><strong>Ph.D. Scholar | Geospatial & Remote Sensing Expert</strong></p>
   <p><em>Environmental Monitoring | Climate Change | GeoAI | Google Earth Engine</em></p>
 </div>
 
 ---
-
-## About Me
 
 ## About Me
 
@@ -24,7 +22,7 @@ I am a **Ph.D. Scholar** and Geospatial Expert with over 2 years of research exp
 
 I am highly proficient in **ArcGIS**, **QGIS**, and **Google Earth Engine (GEE)**, where I integrate **Machine Learning** methodologies with big data analysis to solve complex spatial problems. By bridging the gap between raw satellite imagery and actionable environmental insights, I aim to provide data-driven solutions for global ecological challenges.
 
-Currently, I am advancing research in geospatial methodologies that support climate resilience and sustainable resource management. I am seeking opportunities to collaborate on innovative projects in **Geospatial Data Science** and **Environmental Research**.
+Currently, I am advancing research in geospatial methodologies that support climate resilience and sustainable resource management. I am seeking opportunities to collaborate on innovative projects in **Geospatial Data Science** and **Environmental Research** where I can apply my technical expertise to real-world impact.
 
 </div>
 
@@ -34,11 +32,8 @@ Currently, I am advancing research in geospatial methodologies that support clim
 
 </div>
 
----
-
-<div style="text-align: center; margin-bottom: 2rem;">
-  [View My Projects :material-arrow-right:](projects/index.md){ .md-button .md-button--primary }
-  [Download CV :material-download:](assets/Adam-CV.pdf){ .md-button }
+<div style="text-align: center; margin-top: 1.5rem;">
+  [Download CV :material-download:](assets/Adam-CV.pdf){ .md-button .md-button--primary }
 </div>
 
 ---
@@ -75,24 +70,6 @@ Currently, I am advancing research in geospatial methodologies that support clim
     - Scientific Writing & Research Methodology
     - Data-driven Policy Insights
 
-</div>
-
----
-
-## Featured Project
-
-<div class="card" style="border: 1px solid #eee; border-radius: 8px; overflow: hidden; max-width: 400px;">
-  <img src="assets/images/cover_.png" alt="Soil Erosion Study" style="width: 100%;"> 
-  <div class="container" style="padding: 1.5rem;">
-    <h3>Soil Erosion Assessment</h3>
-    <p>Hybrid Machine Learning-RUSLE approach for soil erosion assessment in Aizawl district.</p>
-    <div style="margin-bottom: 1rem;">
-      <span class="tag" style="background: #eef; padding: 2px 8px; border-radius: 4px; font-size: 0.8em;">GEE</span>
-      <span class="tag" style="background: #eef; padding: 2px 8px; border-radius: 4px; font-size: 0.8em;">ArcGIS</span>
-      <span class="tag" style="background: #eef; padding: 2px 8px; border-radius: 4px; font-size: 0.8em;">Random Forest</span>
-    </div>
-    <a href="projects/erosion-study/" class="md-button md-button--primary">View Project →</a>
-  </div>
 </div>
 
 ---
