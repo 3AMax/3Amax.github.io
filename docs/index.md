@@ -12,6 +12,7 @@ hide:
     text-align:center;
     position:relative;
     overflow:hidden;
+    margin-bottom:2rem;
 ">
 
 <div style="
@@ -28,7 +29,7 @@ hide:
 
 ### <span style="color:white;">Ph.D. Scholar | Geospatial & Remote Sensing Expert</span>
 
-<p style="color:white;">
+<p style="color:white; font-size:1.1rem;">
 Environmental Monitoring • Climate Change • GeoAI • Google Earth Engine
 </p>
 
@@ -41,6 +42,16 @@ Environmental Monitoring • Climate Change • GeoAI • Google Earth Engine
 
 # About Me
 
+<div style="
+    display:flex;
+    align-items:center;
+    gap:2rem;
+    flex-wrap:wrap;
+    margin-top:2rem;
+">
+
+<div style="flex:2; min-width:300px;">
+
 I am a **Ph.D. Scholar** and Geospatial Researcher specializing in:
 
 - Remote Sensing
@@ -51,7 +62,7 @@ I am a **Ph.D. Scholar** and Geospatial Researcher specializing in:
 
 My work focuses on applying satellite imagery, machine learning, and cloud-based geospatial technologies to address environmental and climate-related challenges.
 
-I have experience working with:
+## Technical Expertise
 
 - Google Earth Engine (GEE)
 - ArcGIS Pro
@@ -61,9 +72,13 @@ I have experience working with:
 
 My research interests include climate resilience, carbon and biomass estimation, land cover dynamics, and sustainable ecosystem management.
 
-<div style="margin-top:2rem; text-align:center;">
+</div>
 
-![](assets/images/about.png){ width="70%" style="border-radius:16px; box-shadow:0 6px 18px rgba(0,0,0,.12);" }
+<div style="flex:1; min-width:280px; text-align:center;">
+
+![](assets/images/about.png){ width="100%" style="border-radius:16px; box-shadow:0 6px 18px rgba(0,0,0,.12);" }
+
+</div>
 
 </div>
 
@@ -116,6 +131,8 @@ My research interests include climate resilience, carbon and biomass estimation,
 
 # Research Interests
 
+<div class="grid cards" markdown>
+
 - Climate Change Monitoring
 - GeoAI & Spatial Intelligence
 - Remote Sensing Applications
@@ -123,11 +140,18 @@ My research interests include climate resilience, carbon and biomass estimation,
 - Earth Observation Technologies
 - Land Use / Land Cover Dynamics
 
+</div>
+
 ---
 
 # Connect
 
-<div style="display:flex; flex-wrap:wrap; gap:10px;">
+<div style="
+    display:flex;
+    flex-wrap:wrap;
+    gap:10px;
+    margin-top:1rem;
+">
 
 [GitHub](https://github.com/3AMax){ .md-button target="_blank" }
 
