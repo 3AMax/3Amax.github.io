@@ -3,31 +3,43 @@
 # ============================================================
 
 site_name: "Max - Geospatial Portfolio"
-site_description: "Portfolio of Ahmed Adam — GIS, Remote Sensing, and Spatial Data Science"
+site_description: "Portfolio of Ahmed Abdallah Adam — GIS, Remote Sensing, and Spatial Data Science"
 site_author: "A.A. Adam"
 site_url: "https://3AMax.github.io/"
 
 theme:
   name: material
+
   icon:
     logo: material/earth
+    repo: fontawesome/brands/github
+
   palette:
-    - scheme: default            # Light mode
-      primary: teal              # Clean AI primary
-      accent: deep purple        # "Fancy AI" accent
+    - scheme: default
+      primary: teal
+      accent: deep purple
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
-    - scheme: slate              # Dark mode
+
+    - scheme: slate
       primary: teal
       accent: deep purple
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
+
   features:
-    - navigation.tabs            
-    - navigation.top             
-    - content.code.copy          
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - navigation.instant
+    - navigation.tracking
+    - search.highlight
+    - search.share
+    - content.code.copy
+    - content.tabs.link
+
   font:
     text: Roboto
     code: Roboto Mono
@@ -35,41 +47,59 @@ theme:
 extra_css:
   - assets/css/extra.css
 
-markdown_extensions:
-  - md_in_html
-  - attr_list
-  - admonition
-  - pymdownx.details
-  - pymdownx.superfences
-  - tables
-  - pymdownx.emoji:
-      emoji_index: !!python/name:material.extensions.emoji.twemoji
-      emoji_generator: !!python/name:material.extensions.emoji.to_svg
-
-copyright: "Copyright &copy; 2026 Ahmed Abdallah Adam"
-
-extra:
-  social:
-    - icon: fontawesome/brands/github
-      link: https://github.com/3AMax
-    - icon: fontawesome/brands/linkedin
-      link: https://www.linkedin.com/in/ahmed-abdallah-adam/ 
-    - icon: fontawesome/brands/researchgate
-      link: https://www.researchgate.net/profile/Ahmed-Adam-49
-    - icon: material/email
-      link: mailto:ahmed.abdallah.adam94@gmail.com
-
 plugins:
   - search
   - meta
   - mkdocs-jupyter
 
+markdown_extensions:
+  - md_in_html
+  - attr_list
+  - admonition
+  - tables
+  - footnotes
+
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+
+  - pymdownx.tabbed:
+      alternate_style: true
+
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+extra:
+
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/3AMax
+
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/ahmed-abdallah-adam-aaam/
+
+    - icon: fontawesome/brands/researchgate
+      link: https://www.researchgate.net/profile/Ahmed-Adam-49
+
+    - icon: fontawesome/solid/graduation-cap
+      link: https://scholar.google.com/citations?hl=en&user=1oX9lpoAAAAJ
+
+  homepage: https://3AMax.github.io/
+
 nav:
   - Home: index.md
+
   - Projects:
-      - "All Projects": projects/index.md
-      - "Sample Project": projects/sample-project.md
-      - "Jupyter Notebook Project": projects/sample-notebook.ipynb
+      - All Projects: projects/index.md
+      - Sample Project: projects/sample-project.md
+      - Jupyter Notebook Project: projects/sample-notebook.ipynb
+
   - Publications: publications.md
   - Experience: experience.md
   - Contact: contact.md
+
+copyright: |
+  Copyright &copy; 2026 Ahmed Abdallah Adam
