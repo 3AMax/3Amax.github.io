@@ -1,27 +1,20 @@
-<!--
-CHECKLIST FOR THIS PAGE (copy this file for each new project):
-- [ ] Replace [YOUR PROJECT TITLE] with your project title
-- [ ] Replace the hero image with your own (add to docs/assets/images/)
-- [ ] Update the Overview section
-- [ ] Update the Methods & Tools section
-- [ ] Update the Key Findings section
-- [ ] Update the Links section
-- [ ] Add a card for this project on docs/projects/index.md
-- [ ] Add a nav entry in mkdocs.yml
--->
+---
+layout: default
+title: Project Details
+---
 
 # [YOUR PROJECT TITLE]
 
-![Project overview image](../assets/images/placeholder-project.png)
+![Project Hero Image](../assets/images/<cover>.png)
 
 ## Overview
 
-[One or two sentences describing what you did, what data you used, and why it matters.]
+[Enter a 1-2 sentence high-level summary here. Example: "This project analyzes urban heat islands using satellite imagery to identify priority areas for reforestation."]
 
-**Study Area:** [Region or extent]  
-**Duration:** [Start month/year – End month/year]  
-**Role:** [Solo project / Team lead / Contributor]  
-**Status:** [Completed / In progress]
+**Study Area:** [e.g., San Francisco, CA / Global / Remote]  
+**Duration:** [e.g., January 2024 – March 2024]  
+**Role:** [e.g., Solo Project]  
+**Status:** Completed
 
 ---
 
@@ -29,34 +22,35 @@ CHECKLIST FOR THIS PAGE (copy this file for each new project):
 
 **Data Sources**
 
-- [Dataset name and source]
-- [Dataset name and source]
+- [e.g., Landsat 8 Satellite Imagery via USGS]
+- [e.g., OpenStreetMap (OSM) Road Networks]
 
 **Processing Steps**
 
-1. [Step one]
-2. [Step two]
-3. [Step three]
-4. [Step four]
+1. **Data Acquisition:** Collected and cleaned raw datasets from primary sources.
+2. **Preprocessing:** Normalized data and handled missing values using [Tool Name].
+3. **Analysis:** Performed [Specific Analysis Type] to identify key patterns.
+4. **Visualization:** Generated final maps and charts for the technical report.
 
 **Tools Used**
 
 | Tool | Purpose |
 |------|---------|
-| [Tool 1] | [What you used it for] |
-| [Tool 2] | [What you used it for] |
-| [Tool 3] | [What you used it for] |
+| [e.g., Python] | Data processing and automation |
+| [e.g., QGIS] | Spatial analysis and map production |
+| [e.g., SQL] | Database management and querying |
 
 ---
+
 ## Key Findings
 
-- [Finding one — include a number or metric if possible]
-- [Finding two]
-- [Finding three]
+- **[Finding 1]:** [e.g., Identified a 15% increase in local temperatures over the last decade.]
+- **[Finding 2]:** [e.g., Correlation between lack of green space and high energy consumption.]
+- **[Finding 3]:** [e.g., Proposed 3 specific zones for immediate urban intervention.]
 
 ---
 
 ## Links
 
-[View Code on GitHub](https://github.com/[YOUR-GITHUB-USERNAME]/[YOUR-REPO-NAME]){ .md-button }
-[View Data Source](https://example.com){ .md-button }
+[View Project PDF](../assets/project.pdf){ .md-button }
+[View Code on GitHub](https://github.com/3AMax/3Amax.github.io){ .md-button }
