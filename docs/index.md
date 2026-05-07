@@ -14,16 +14,24 @@ hide:
 
 ## About Me
 
-<div class="about-section" markdown>
-<div class="about-text" markdown>
+## About Me
+
+<div class="about-section" style="display: flex; align-items: center; gap: 2rem; flex-wrap: wrap;" markdown>
+
+<div class="about-text" style="flex: 2; min-width: 300px;" markdown>
 
 I am a **Ph.D. Scholar** and Geospatial Expert with over 2 years of research experience specializing in **Remote Sensing** and **Climatology**. My work is dedicated to leveraging modern geospatial technologies for societal benefit, with a core focus on environmental analysis, climate change monitoring, and the assessment of carbon and biomass.
 
 I am highly proficient in **ArcGIS**, **QGIS**, and **Google Earth Engine (GEE)**, where I integrate **Machine Learning** methodologies with big data analysis to solve complex spatial problems. By bridging the gap between raw satellite imagery and actionable environmental insights, I aim to provide data-driven solutions for global ecological challenges.
 
-Currently, I am advancing research in geospatial methodologies that support climate resilience and sustainable resource management. I am seeking opportunities to collaborate on innovative projects in **Geospatial Data Science** and **Environmental Research** where I can apply my technical expertise to real-world impact.
+Currently, I am advancing research in geospatial methodologies that support climate resilience and sustainable resource management. I am seeking opportunities to collaborate on innovative projects in **Geospatial Data Science** and **Environmental Research**.
 
 </div>
+
+<div class="about-image" style="flex: 1; min-width: 250px; text-align: center;">
+  <img src="assets/images/about.png" alt="About Ahmed Adam" style="border-radius: 12px; width: 100%; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+</div>
+
 </div>
 
 ---
