@@ -29,7 +29,7 @@ Currently, I am advancing research in geospatial methodologies that support clim
 ---
 
 <div style="text-align: center; margin-bottom: 2rem;">
-  [View My Projects :material-arrow-right:](projects/index.md){ .md-button .md-button--primary }
+  #[View My Projects :material-arrow-right:](projects/index.md){ .md-button .md-button--primary }
   [Download CV :material-download:](assets/Adam-CV.pdf){ .md-button }
 </div>
 
