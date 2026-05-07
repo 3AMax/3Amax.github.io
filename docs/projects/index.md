@@ -33,7 +33,7 @@ A selection of my geospatial projects. Click any card to see the full write-up.
     <span class="tag">Pandas</span>
     <span class="tag">Folium</span>
     
-    <a href="sample-notebook/" class="btn">View Project →</a>
+   # <a href="sample-notebook/" class="btn">View Project →</a>
   </div>
 </div>
 
