@@ -4,7 +4,7 @@ hide:
 ---
 
 <div style="
-    background-image:url('docs/assets/imagesbackground.JPEG');
+    background-image:url('assets/images/background.JPEG');
     background-size:cover;
     background-position:center;
     padding:6rem 1rem;
@@ -22,7 +22,7 @@ hide:
 
 <div style="position:relative; z-index:1;">
 
-![](docs/assets/images/profile.png){ width="180" style="border-radius:50%; border:5px solid white;" }
+![](assets/images/profile.png){ width="180" style="border-radius:50%; border:5px solid white; box-shadow:0 8px 24px rgba(0,0,0,.35);" }
 
 # <span style="color:white;">Ahmed Abdallah Adam</span>
 
@@ -63,7 +63,7 @@ My research interests include climate resilience, carbon and biomass estimation,
 
 <div style="margin-top:2rem; text-align:center;">
 
-![](assets/images/about.png){ width="70%" style="border-radius:16px;" }
+![](assets/images/about.png){ width="70%" style="border-radius:16px; box-shadow:0 6px 18px rgba(0,0,0,.12);" }
 
 </div>
 
@@ -73,7 +73,7 @@ My research interests include climate resilience, carbon and biomass estimation,
 
 <div class="grid cards" markdown>
 
--   :material-earth:{ .lg .middle } **GIS & Remote Sensing**
+- :material-earth:{ .lg .middle } **GIS & Remote Sensing**
 
     ---
 
@@ -83,7 +83,7 @@ My research interests include climate resilience, carbon and biomass estimation,
     - Environmental Monitoring
     - Carbon & Biomass Estimation
 
--   :material-code-braces:{ .lg .middle } **Programming & Data Science**
+- :material-code-braces:{ .lg .middle } **Programming & Data Science**
 
     ---
 
@@ -92,7 +92,7 @@ My research interests include climate resilience, carbon and biomass estimation,
     - SQL & Spatial Databases
     - Geospatial Data Processing
 
--   :material-brain:{ .lg .middle } **Machine Learning & GeoAI**
+- :material-brain:{ .lg .middle } **Machine Learning & GeoAI**
 
     ---
 
@@ -101,7 +101,7 @@ My research interests include climate resilience, carbon and biomass estimation,
     - Predictive Climate Modeling
     - Spatial Feature Extraction
 
--   :material-chart-line:{ .lg .middle } **Research & Analysis**
+- :material-chart-line:{ .lg .middle } **Research & Analysis**
 
     ---
 
