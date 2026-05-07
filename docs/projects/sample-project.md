@@ -6,14 +6,14 @@ title: Aizawl Soil Erosion Study
 # Hybrid Machine Learning-RUSLE Approach for Soil Erosion Assessment
 *A Study of Aizawl District, Mizoram, Northeast India*
 
-![Project Hero Image](../assets/images/cover.png)
+![Project Hero Image](../assets/images/Cover.png)
 
 ## Overview
 
 This project quantifies average annual soil loss and delineates high-risk erosion zones in the Eastern Himalayas. By integrating the **Revised Universal Soil Loss Equation (RUSLE)** with **Machine Learning**, the study identifies a critical "erosion paradox"—where high forest cover masks localized degradation hotspots driven by extreme topography.
 
 **Study Area:** Aizawl District, Mizoram  
-**Duration:** 2025 – 2026  
+#**Duration:** 2025 – 2026  
 **Role:** Lead Researcher / Geospatial Analyst  
 **Status:** Published Research
 
@@ -52,4 +52,4 @@ This project quantifies average annual soil loss and delineates high-risk erosio
 ## Links
 
 [View Research PDF](../assets/Project.pdf){ .md-button }
-[Source Code Repo](https://github.com/3AMax/3Amax.github.io){ .md-button }
+#[Source Code Repo](https://github.com/3AMax/3Amax.github.io){ .md-button }
