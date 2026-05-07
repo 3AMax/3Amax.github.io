@@ -3,36 +3,55 @@ hide:
   - toc
 ---
 
-<div markdown="1" style="
-    padding:5rem 1rem 3rem;
-    text-align:center;
-    margin-bottom:2rem;
+<!-- HERO SECTION -->
+
+<div style="
+    padding: 4rem 1rem 3rem;
+    text-align: center;
 ">
 
 <img
     src="assets/images/profile.png"
-    width="180"
+    alt="Ahmed Abdallah Adam"
     style="
-        border-radius:50%;
-        border:5px solid var(--md-primary-fg-color);
-        box-shadow:0 8px 24px rgba(0,0,0,.20);
+        width: 180px;
+        height: 180px;
+        object-fit: cover;
+        border-radius: 50%;
+        border: 5px solid #14b8a6;
+        box-shadow: 0 10px 30px rgba(0,0,0,.20);
+        margin-bottom: 1rem;
     "
 />
 
-# Ahmed Abdallah Adam
+<h1 style="margin-bottom:0.3rem;">
+Ahmed Abdallah Adam
+</h1>
 
-### Ph.D. Scholar | Geospatial & Remote Sensing Expert
+<h3 style="
+    margin-top:0;
+    color: var(--md-default-fg-color--light);
+    font-weight:600;
+">
+Ph.D. Scholar | Geospatial & Remote Sensing Expert
+</h3>
 
-<p style="font-size:1.1rem;">
+<p style="
+    font-size:1.1rem;
+    margin-top:1rem;
+">
 Environmental Monitoring • Climate Change • GeoAI • Google Earth Engine
 </p>
 
+<p>
 <a
-    href="assets/Adam-CV.pdf"
+    href="./assets/Adam-CV.pdf"
     class="md-button md-button--primary"
+    target="_blank"
 >
-    Download CV
+Download CV
 </a>
+</p>
 
 </div>
 
@@ -40,51 +59,74 @@ Environmental Monitoring • Climate Change • GeoAI • Google Earth Engine
 
 # About Me
 
-<div markdown="1" style="
-    display:flex;
+<div style="
+    display:grid;
+    grid-template-columns: 2fr 1fr;
+    gap: 2rem;
     align-items:center;
-    gap:2rem;
-    flex-wrap:wrap;
-    margin-top:2rem;
 ">
 
-<div markdown="1" style="flex:2; min-width:300px;">
+<div>
 
-I am a **Ph.D. Scholar** and Geospatial Researcher specializing in **Remote Sensing**, **Climatology**, **GeoAI**, and **Environmental Monitoring**.
+<p>
+I am a <strong>Ph.D. Scholar</strong> and Geospatial Researcher specializing in
+<strong>Remote Sensing</strong>,
+<strong>Climatology</strong>,
+<strong>GeoAI</strong>, and
+<strong>Environmental Monitoring</strong>.
+</p>
 
-My research focuses on integrating satellite remote sensing, cloud computing, and machine learning techniques to analyze environmental dynamics and support sustainable decision-making.
+<p>
+My research focuses on integrating satellite remote sensing,
+cloud computing, and machine learning techniques
+to analyze environmental dynamics and support sustainable decision-making.
+</p>
 
-## Core Expertise
+<h3>Core Expertise</h3>
 
-- Google Earth Engine (GEE)
-- ArcGIS Pro & QGIS
-- Python for Geospatial Analysis
-- Machine Learning for Spatial Modeling
-- Earth Observation & Time-Series Analysis
+<ul>
+<li>Google Earth Engine (GEE)</li>
+<li>ArcGIS Pro & QGIS</li>
+<li>Python for Geospatial Analysis</li>
+<li>Machine Learning for Spatial Modeling</li>
+<li>Earth Observation & Time-Series Analysis</li>
+</ul>
 
-## Research Areas
+<h3>Research Areas</h3>
 
-- Land Use / Land Cover (LULC) Change Detection
-- Climate Change Monitoring
-- Carbon & Biomass Estimation
-- Spatial Data Science
-- Environmental Sustainability
-- GeoAI Applications in Earth Observation
+<ul>
+<li>Land Use / Land Cover (LULC) Change Detection</li>
+<li>Climate Change Monitoring</li>
+<li>Carbon & Biomass Estimation</li>
+<li>Spatial Data Science</li>
+<li>Environmental Sustainability</li>
+<li>GeoAI Applications in Earth Observation</li>
+</ul>
 
-I am particularly interested in leveraging cloud-based geospatial platforms such as **Google Earth Engine** to process large-scale satellite datasets for environmental monitoring and climate resilience research.
+<p>
+I am particularly interested in leveraging cloud-based geospatial platforms
+such as <strong>Google Earth Engine</strong>
+to process large-scale satellite datasets
+for environmental monitoring and climate resilience research.
+</p>
 
-My work contributes to advancing data-driven approaches for ecosystem management, land degradation assessment, and sustainable environmental planning.
+<p>
+My work contributes to advancing data-driven approaches for ecosystem management,
+land degradation assessment, and sustainable environmental planning.
+</p>
 
 </div>
 
-<div markdown="1" style="flex:1; min-width:280px; text-align:center;">
+<div style="text-align:center;">
 
 <img
     src="assets/images/about.png"
+    alt="About"
     style="
         width:100%;
-        border-radius:16px;
-        box-shadow:0 6px 18px rgba(0,0,0,.12);
+        max-width:320px;
+        border-radius:18px;
+        box-shadow:0 8px 24px rgba(0,0,0,.15);
     "
 />
 
@@ -165,40 +207,24 @@ My work contributes to advancing data-driven approaches for ecosystem management
 <div style="
     display:flex;
     flex-wrap:wrap;
-    gap:10px;
+    gap:12px;
     margin-top:1rem;
 ">
 
-<a
-    href="https://github.com/3AMax"
-    class="md-button"
-    target="_blank"
->
-    GitHub
+<a href="https://github.com/3AMax" class="md-button" target="_blank">
+GitHub
 </a>
 
-<a
-    href="https://www.linkedin.com/in/ahmed-abdallah-adam-aaam/"
-    class="md-button"
-    target="_blank"
->
-    LinkedIn
+<a href="https://www.linkedin.com/in/ahmed-abdallah-adam-aaam/" class="md-button" target="_blank">
+LinkedIn
 </a>
 
-<a
-    href="https://www.researchgate.net/profile/Ahmed-Adam-49?ev=hdr_xprf"
-    class="md-button"
-    target="_blank"
->
-    ResearchGate
+<a href="https://www.researchgate.net/profile/Ahmed-Adam-49" class="md-button" target="_blank">
+ResearchGate
 </a>
 
-<a
-    href="https://scholar.google.com/citations?hl=en&user=1oX9lpoAAAAJ"
-    class="md-button"
-    target="_blank"
->
-    Google Scholar
+<a href="https://scholar.google.com/citations?hl=en&user=1oX9lpoAAAAJ" class="md-button" target="_blank">
+Google Scholar
 </a>
 
 </div>
