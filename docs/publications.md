@@ -2,44 +2,77 @@
 hide:
   - toc
 ---
-<!--
-CHECKLIST FOR THIS PAGE:
-- [ ] Replace each [YOUR ...] placeholder with your actual information
-- [ ] Add or remove entries in each section as needed
-- [ ] Remove sections that are not applicable (e.g., Theses, Conference Presentations)
-- [ ] Add DOI or URL links where available
--->
 
 # Publications
 
 ## Journal Articles
 
-1. [YOUR NAME], [CO-AUTHOR NAME], and [CO-AUTHOR NAME] ([YEAR]). "[Your paper title here]." *[Journal Name]*, [Volume] [Issue], [Page range]. [DOI link or URL]
-
-2. [YOUR NAME] and [CO-AUTHOR NAME] ([YEAR]). "[Your paper title here]." *[Journal Name]*, [Volume] [Issue], [Page range]. [DOI link or URL]
-
-3. [YOUR NAME] ([YEAR]). "[Your paper title here]." *[Journal Name]*, [Volume] [Issue], [Page range]. [DOI link or URL]
+<div class="publications-list" markdown>
 
 ---
 
-## Conference Papers & Presentations
-
-1. [YOUR NAME] and [CO-AUTHOR NAME] ([YEAR]). "[Your presentation title]." *[Conference Name]*, [City, Country].
-
-2. [YOUR NAME] ([YEAR]). "[Your presentation title]." *[Conference Name]*, [City, Country].
-
----
-
-## Theses
-
-- [YOUR NAME] ([YEAR]). *[Your thesis title]*. [Degree type] thesis. [University Name].
+### Projected change in precipitation and temperature over undivided Sudan and its major cities
+**Mohamed, A. A. A.**, Maharana, P., Phartyal, S. S., & Dimri, A. P.  
+*Meteorology and Atmospheric Physics*, 136(2), 2024  
+[:material-link: https://doi.org/10.1007/s00703-024-01017-z](https://doi.org/10.1007/s00703-024-01017-z)
 
 ---
 
-## Reports & Technical Documents
-
-- [YOUR NAME] et al. ([YEAR]). *[Report title]*. [Organization Name]. [URL or DOI if available]
+### Forest structure and tree diversity along an altitudinal gradient in Sikkim Himalaya
+Chettri, M., Sahoo, U. K., Kumar, D., Musa, F. I., **Mohamed, A. A. A.**, Hrahsel, L., & Vanlalhluna, P. C.  
+*Vegetos*, 2024  
+[:material-link: https://doi.org/10.1007/s42535-024-01154-1](https://doi.org/10.1007/s42535-024-01154-1)
 
 ---
 
-*For citation counts and a full list, see [Google Scholar](https://scholar.google.com) or [ResearchGate](https://www.researchgate.net).*
+### Situation analysis of gum Arabic producers associations (GAPAs) under IAMDP, Sudan
+Eltahir, M. E. S., Musa, F. I., Mohammed, E. M. I., & **Mohamed, A. A. A.**  
+*Social Sciences & Humanities Open*, 11, 101350, 2025  
+[:material-link: https://doi.org/10.1016/j.ssaho.2025.101350](https://doi.org/10.1016/j.ssaho.2025.101350)
+
+---
+
+### Co-situation of using sonki in gum Arabic production in Abu Zabad locality, West Kordofan state, Sudan
+Eltahir, N. M. E. S., Ahmed, N. E. M. I., Faragallah, N. S. A. D. A., Musa, F. I., & **Mohamed, A. A. A.**  
+*Journal of Sylva Indonesiana*, 8(01), 45–58, 2025  
+[:material-link: https://doi.org/10.32734/jsi.v8i01.18986](https://doi.org/10.32734/jsi.v8i01.18986)
+
+---
+
+### Identification and Characterization of Microplastics in Riverine Environment, Cauvery River (Mysore), Karnataka, India
+Alfadol, A. I. A., Raju, N. S., NR, A. S., Abhilash, M. R., & **Mohamed, A. A. A.**  
+*International Journal of Ecology and Environmental Sciences*, 2025  
+[:material-link: https://doi.org/10.55863/ijees.2025.0655](https://doi.org/10.55863/ijees.2025.0655)
+
+---
+
+### Seasonal Variation in Soil Quality across Different Land Use Systems in Dampa Tiger Reserve, Mizoram, India
+Lalruatkimi, K. B., Davi, **A. A. A. Mohamed**, Tleipuiia, R. V. L., Paul, A., Yam, G., Semy, K., & Tripathi, O. P.  
+*Eurasian Soil Science*, 58:102, 2025  
+[:material-link: https://doi.org/10.1134/S1064229324604633](https://doi.org/10.1134/S1064229324604633)
+
+---
+
+</div>
+
+## Book Chapters / Monographs
+
+<div class="publications-list" markdown>
+
+---
+
+### Litter Production, Decomposition and Nutrient Release in Bamboo Breaks of Mizoram University Campus
+Fanai, L., Lalruatkimi C., Davi K. B., Lalthawmmawi, Khanna N., **Mohamed A. A. A.**, Sangeeta D., Tripathi O. P.  
+In *Sustainable Solutions: Navigating Climate Change and Natural Resources* (2025), pp. 1–12.  
+Today & Tomorrow's Printers and Publishers, India *(Monograph)*
+
+---
+
+### Agriculture Susceptibility to Climate Change: A Review
+Khanna, N., Lalruatkimi C., **Mohamed A. A. A.**, Davi K. B., Tripathi O. P.  
+In *Sustainable Solutions: Navigating Climate Change and Natural Resources* (2025), pp. 1–12.  
+Today & Tomorrow's Printers and Publishers, India
+
+---
+
+</div>
