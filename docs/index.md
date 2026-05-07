@@ -45,7 +45,7 @@ Environmental Monitoring • Climate Change • GeoAI • Google Earth Engine
 
 <p>
 <a
-    href="./assets/Adam-CV.pdf"
+    href=".docs/assets/Adam-CV.pdf"
     class="md-button md-button--primary"
     target="_blank"
 >
