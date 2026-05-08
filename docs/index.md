@@ -7,7 +7,11 @@ hide:
 <!-- HERO SECTION -->
 <!-- ===================================================== -->
 
-<div style="padding: 6rem 1rem 5rem; text-align: center; position: relative; overflow: hidden; border-radius: 24px; background-image: linear-gradient(rgba(0,0,0,0.55), rgba(0,0,0,0.55)), url('../assets/images/background.jpeg'); background-size: cover; background-position: center; background-repeat: no-repeat; color: white;">
+<div style="padding: 6rem 1rem 5rem; text-align: center; position: relative; overflow: hidden; border-radius: 24px; color: white;">
+
+<div style="position: absolute; inset: 0; background-image: url('../assets/images/background.jpeg'); background-size: cover; background-position: center; filter: blur(4px) brightness(0.55); transform: scale(1.05); z-index: 0;"></div>
+
+<div style="position: relative; z-index: 1;">
 
 <img src="../assets/images/profile.png" alt="Ahmed Abdallah Adam" style="width: 280px; height: 280px; object-fit: cover; border-radius: 50%; border: 6px solid white; box-shadow: 0 12px 32px rgba(0,0,0,.35); margin-bottom: 1.5rem;" />
 
@@ -18,6 +22,8 @@ hide:
 <p style="font-size:1.15rem; margin-top:1rem; color: rgba(255,255,255,0.92);">Environmental Monitoring • Climate Change • GeoAI • Google Earth Engine</p>
 
 <p style="margin-top:1.5rem;"><a href="../assets/images/Adam-CV.pdf" class="md-button md-button--primary" target="_blank">Download CV</a></p>
+
+</div>
 
 </div>
 
