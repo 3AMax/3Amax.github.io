@@ -25,44 +25,17 @@ hide:
     color: white;
 ">
 
-<img
-    src="../assets/images/profile.png"
-    alt="Ahmed Abdallah Adam"
-    style="
-        width: 280px;
-        height: 280px;
-        object-fit: cover;
-        border-radius: 50%;
-        border: 6px solid white;
-        box-shadow: 0 12px 32px rgba(0,0,0,.35);
-        margin-bottom: 1.5rem;
-    "
-/>
+<img src="../assets/images/profile.png" alt="Ahmed Abdallah Adam" style="width: 280px; height: 280px; object-fit: cover; border-radius: 50%; border: 6px solid white; box-shadow: 0 12px 32px rgba(0,0,0,.35); margin-bottom: 1.5rem;" />
 
-<h1 style="
-    margin-bottom:0.5rem;
-    color:white;
-">
-Ahmed Abdallah Adam
-</h1>
+<h1 style="margin-bottom:0.5rem; color:white;">Ahmed Abdallah Adam</h1>
 
-<h3 style="
-    margin-top:0;
-    color: rgba(255,255,255,0.88);
-    font-weight:600;
-">
-Ph.D. Scholar | Geospatial & Remote Sensing Expert
-</h3>
+<h3 style="margin-top:0; color: rgba(255,255,255,0.88); font-weight:600;">Ph.D. Scholar | Geospatial & Remote Sensing Expert</h3>
 
-<p style="
-    font-size:1.15rem;
-    margin-top:1rem;
-    color: rgba(255,255,255,0.92);
-">
-Environmental Monitoring • Climate Change • GeoAI • Google Earth Engine
-</p>
+<p style="font-size:1.15rem; margin-top:1rem; color: rgba(255,255,255,0.92);">Environmental Monitoring • Climate Change • GeoAI • Google Earth Engine</p>
 
 <p style="margin-top:1.5rem;"><a href="../assets/images/Adam-CV.pdf" class="md-button md-button--primary" target="_blank">Download CV</a></p>
+
+</div>
 
 ---
 
@@ -72,31 +45,13 @@ Environmental Monitoring • Climate Change • GeoAI • Google Earth Engine
 
 # About Me
 
-<div style="
-    display:grid;
-    grid-template-columns: 2fr 1fr;
-    gap: 3rem;
-    align-items:center;
-    margin-top:2rem;
-">
-
-<!-- TEXT -->
+<div style="display:grid; grid-template-columns: 2fr 1fr; gap: 3rem; align-items:center; margin-top:2rem;">
 
 <div>
 
-<p>
-I am a <strong>Ph.D. Scholar</strong> and Geospatial Researcher specializing in
-<strong>Remote Sensing</strong>,
-<strong>Climatology</strong>,
-<strong>GeoAI</strong>, and
-<strong>Environmental Monitoring</strong>.
-</p>
+<p>I am a <strong>Ph.D. Scholar</strong> and Geospatial Researcher specializing in <strong>Remote Sensing</strong>, <strong>Climatology</strong>, <strong>GeoAI</strong>, and <strong>Environmental Monitoring</strong>.</p>
 
-<p>
-My research focuses on integrating satellite remote sensing,
-cloud computing, and machine learning techniques
-to analyze environmental dynamics and support sustainable decision-making.
-</p>
+<p>My research focuses on integrating satellite remote sensing, cloud computing, and machine learning techniques to analyze environmental dynamics and support sustainable decision-making.</p>
 
 <h3>I Work Extensively With</h3>
 
@@ -119,36 +74,13 @@ to analyze environmental dynamics and support sustainable decision-making.
 <li>GeoAI Applications in Earth Observation</li>
 </ul>
 
-<p>
-I am particularly interested in leveraging cloud-based geospatial platforms
-such as <strong>Google Earth Engine</strong>
-to process large-scale satellite datasets for environmental monitoring
-and climate resilience research.
-</p>
+<p>I am particularly interested in leveraging cloud-based geospatial platforms such as <strong>Google Earth Engine</strong> to process large-scale satellite datasets for environmental monitoring and climate resilience research.</p>
 
-<p>
-My work contributes to advancing data-driven approaches for ecosystem management,
-land degradation assessment, and sustainable environmental planning.
-</p>
+<p>My work contributes to advancing data-driven approaches for ecosystem management, land degradation assessment, and sustainable environmental planning.</p>
 
 </div>
 
-<!-- IMAGE -->
-
-<div style="text-align:center;">
-
-<img
-    src="../assets/images/about.png"
-    alt="About Ahmed"
-    style="
-        width:100%;
-        max-width:480px;
-        border-radius:22px;
-        box-shadow:0 10px 30px rgba(0,0,0,.18);
-    "
-/>
-
-</div>
+<div style="text-align:center;"><img src="../assets/images/about.png" alt="About Ahmed" style="width:100%; max-width:480px; border-radius:22px; box-shadow:0 10px 30px rgba(0,0,0,.18);" /></div>
 
 </div>
 
@@ -234,43 +166,14 @@ land degradation assessment, and sustainable environmental planning.
 
 # Connect
 
-<div style="
-    display:flex;
-    flex-wrap:wrap;
-    gap:12px;
-    margin-top:1rem;
-">
+<div style="display:flex; flex-wrap:wrap; gap:12px; margin-top:1rem;">
 
+<a href="https://github.com/3AMax" class="md-button" target="_blank">GitHub</a>
 
-    href="https://github.com/3AMax"
-    class="md-button"
-    target="_blank"
->
-GitHub
-</a>
+<a href="https://www.linkedin.com/in/ahmed-abdallah-adam-aaam/" class="md-button" target="_blank">LinkedIn</a>
 
+<a href="https://www.researchgate.net/profile/Ahmed-Adam-49" class="md-button" target="_blank">ResearchGate</a>
 
-    href="https://www.linkedin.com/in/ahmed-abdallah-adam-aaam/"
-    class="md-button"
-    target="_blank"
->
-LinkedIn
-</a>
-
-
-    href="https://www.researchgate.net/profile/Ahmed-Adam-49"
-    class="md-button"
-    target="_blank"
->
-ResearchGate
-</a>
-
-
-    href="https://scholar.google.com/citations?hl=en&user=1oX9lpoAAAAJ"
-    class="md-button"
-    target="_blank"
->
-Google Scholar
-</a>
+<a href="https://scholar.google.com/citations?hl=en&user=1oX9lpoAAAAJ" class="md-button" target="_blank">Google Scholar</a>
 
 </div>
