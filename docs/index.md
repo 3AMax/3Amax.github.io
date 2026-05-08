@@ -62,10 +62,7 @@ Ph.D. Scholar | Geospatial & Remote Sensing Expert
 Environmental Monitoring • Climate Change • GeoAI • Google Earth Engine
 </p>
 
-<p style="margin-top:1.5rem;">
-
-
- <p style="margin-top:1.5rem;"><a href="../assets/images/Adam-CV.pdf" class="md-button md-button--primary" target="_blank">Download CV</a></p>
+<p style="margin-top:1.5rem;"><a href="../assets/images/Adam-CV.pdf" class="md-button md-button--primary" target="_blank">Download CV</a></p>
 
 ---
 
