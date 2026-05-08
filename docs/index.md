@@ -70,7 +70,7 @@ hide:
 
 </div>
 
-<div style="text-align:center;"><img src="../assets/images/about.png" alt="About Ahmed" style="width:100%; max-width:700px; border-radius:22px; box-shadow:0 10px 30px rgba(0,0,0,.18);" /></div>
+<div style="text-align:center;"><img src="../assets/images/about.png" alt="About Ahmed" style="width:100%; max-width:900px; border-radius:22px; box-shadow:0 10px 30px rgba(0,0,0,.18);" /></div>
 
 </div>
 
