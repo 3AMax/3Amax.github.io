@@ -7,23 +7,7 @@ hide:
 <!-- HERO SECTION -->
 <!-- ===================================================== -->
 
-<div style="
-    padding: 6rem 1rem 5rem;
-    text-align: center;
-    position: relative;
-    overflow: hidden;
-    border-radius: 24px;
-
-    background-image:
-        linear-gradient(rgba(0,0,0,0.55), rgba(0,0,0,0.55)),
-        url('../assets/images/background.jpeg');
-
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-
-    color: white;
-">
+<div style="padding: 6rem 1rem 5rem; text-align: center; position: relative; overflow: hidden; border-radius: 24px; background-image: linear-gradient(rgba(0,0,0,0.55), rgba(0,0,0,0.55)), url('../assets/images/background.jpeg'); background-size: cover; background-position: center; background-repeat: no-repeat; color: white;">
 
 <img src="../assets/images/profile.png" alt="Ahmed Abdallah Adam" style="width: 280px; height: 280px; object-fit: cover; border-radius: 50%; border: 6px solid white; box-shadow: 0 12px 32px rgba(0,0,0,.35); margin-bottom: 1.5rem;" />
 
