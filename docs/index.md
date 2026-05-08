@@ -16,7 +16,7 @@ hide:
 
     background-image:
         linear-gradient(rgba(0,0,0,0.55), rgba(0,0,0,0.55)),
-        url('../assets/images/background.jpeg');
+        url('../assets/images/background.jpg');
 
     background-size: cover;
     background-position: center;
@@ -26,7 +26,7 @@ hide:
 ">
 
 <img
-    src="docs/assets/images/profile.png"
+    src="/assets/images/profile.png"
     alt="Ahmed Abdallah Adam"
     style="
         width: 280px;
