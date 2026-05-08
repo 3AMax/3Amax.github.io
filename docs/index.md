@@ -35,7 +35,7 @@ hide:
 
 # About Me
 
-<div style="display:grid; grid-template-columns: 2fr 1fr; gap: 3rem; align-items:center; margin-top:2rem;">
+<div style="display:grid; grid-template-columns: 1fr 1fr; gap: 3rem; align-items:center; margin-top:2rem;">
 
 <div>
 
