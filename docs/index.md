@@ -16,7 +16,7 @@ hide:
 
     background-image:
         linear-gradient(rgba(0,0,0,0.55), rgba(0,0,0,0.55)),
-        url('assets/images/background.png');
+        url('../assets/images/background.png');
 
     background-size: cover;
     background-position: center;
@@ -64,7 +64,7 @@ Environmental Monitoring • Climate Change • GeoAI • Google Earth Engine
 
 <p style="margin-top:1.5rem;">
 
-<a
+
     href="assets/Adam-CV.pdf"
     class="md-button md-button--primary"
     target="_blank"
@@ -227,14 +227,14 @@ land degradation assessment, and sustainable environmental planning.
 
 <div class="grid cards" markdown>
 
-- Climate Change Monitoring
-- GeoAI & Spatial Intelligence
-- Remote Sensing Applications
-- Environmental Sustainability
-- Earth Observation Technologies
-- Land Use / Land Cover Dynamics
-- Carbon Cycle Assessment
-- Sustainable Resource Management
+- :material-thermometer:{ .lg .middle } **Climate Change Monitoring**
+- :material-robot:{ .lg .middle } **GeoAI & Spatial Intelligence**
+- :material-satellite-variant:{ .lg .middle } **Remote Sensing Applications**
+- :material-leaf:{ .lg .middle } **Environmental Sustainability**
+- :material-earth:{ .lg .middle } **Earth Observation Technologies**
+- :material-map:{ .lg .middle } **Land Use / Land Cover Dynamics**
+- :material-molecule-co2:{ .lg .middle } **Carbon Cycle Assessment**
+- :material-water:{ .lg .middle } **Sustainable Resource Management**
 
 </div>
 
@@ -253,7 +253,7 @@ land degradation assessment, and sustainable environmental planning.
     margin-top:1rem;
 ">
 
-<a
+
     href="https://github.com/3AMax"
     class="md-button"
     target="_blank"
@@ -261,7 +261,7 @@ land degradation assessment, and sustainable environmental planning.
 GitHub
 </a>
 
-<a
+
     href="https://www.linkedin.com/in/ahmed-abdallah-adam-aaam/"
     class="md-button"
     target="_blank"
@@ -269,7 +269,7 @@ GitHub
 LinkedIn
 </a>
 
-<a
+
     href="https://www.researchgate.net/profile/Ahmed-Adam-49"
     class="md-button"
     target="_blank"
@@ -277,7 +277,7 @@ LinkedIn
 ResearchGate
 </a>
 
-<a
+
     href="https://scholar.google.com/citations?hl=en&user=1oX9lpoAAAAJ"
     class="md-button"
     target="_blank"
