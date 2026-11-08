@@ -11,6 +11,34 @@ hide:
 
 ---
 
+### Land cover change and vegetation trends in South Darfur Sudan using dynamic world
+Ahmed, A., **Adam, A. A.**, Mohammed, M. A. A., & Czimber, K.  
+*Scientific Reports*, 2026 (In Press)  
+[:material-link: https://doi.org/10.1038/s41598-026-77402-y](https://doi.org/10.1038/s41598-026-77402-y)
+
+---
+
+### Seasonal variation in physicochemical properties of some agricultural soils in Lucknow district, Uttar Pradesh of India
+Khanna, N., Lalruatkimi, C., Devi, K. B., **Adam, A. A.**, Yam, G., & Tripathi, O. P.  
+*Discover Soil*, 3, article 147, 2026 (In Press)  
+[:material-link: https://doi.org/10.1007/s44378-026-00302-0](https://doi.org/10.1007/s44378-026-00302-0)
+
+---
+
+### From pixel to policy: integrating field and remote sensing-based modelling of biomass and carbon sequestration along altitudinal gradient in tropical forests
+**Adam, A. A.**, Musa, F. I., Lalruatkimi, C., Devi, K. B., & Tripathi, O. P.  
+*Environmental Systems Research*, 2026 (In Press)  
+[:material-link: https://doi.org/10.1186/s40068-026-00486-y](https://doi.org/10.1186/s40068-026-00486-y)
+
+---
+
+### Modelling of Tropical Forest Canopy Change and Land Surface Temperature in Kolasib District of Mizoram, Northeast India
+**Adam, A. A.**, Lalruatkimi, C., Musa, F. I., & Tripathi, O. P.  
+*Journal of Sustainable Forestry*, 2026 (In Press)  
+[:material-link: https://doi.org/10.1080/10549811.2026.2689978](https://doi.org/10.1080/10549811.2026.2689978)
+
+---
+
 ### Hybrid machine learning-RUSLE approach for soil erosion assessment in Aizawl district, Mizoram, Northeast India
 **Adam, A. A.**, Lalruatkimi, C., Devi, K. B., Khanna, N., Yam, G., Musa, F. I., Paul, A., & Tripathi, O. P.  
 *Discover Soil*, 3, article 30, 2026  
