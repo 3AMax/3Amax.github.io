@@ -9,7 +9,7 @@ hide:
 
 <div style="padding: 6rem 1rem 5rem; text-align: center; position: relative; overflow: hidden; border-radius: 24px; color: white;">
 
-<div style="position: absolute; inset: 0; background-image: url('../assets/Background_1.jpg'); background-size: cover; background-position: center; filter: blur(4px) brightness(0.55); transform: scale(1.05); z-index: 0;"></div>
+<div style="position: absolute; inset: 0; background-image: url('../assets/Backround_1.png'); background-size: cover; background-position: center; filter: blur(4px) brightness(0.55); transform: scale(1.05); z-index: 0;"></div>
 
 <div style="position: relative; z-index: 1;">
 
