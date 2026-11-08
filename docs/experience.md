@@ -23,8 +23,7 @@ hide:
 
 <div class="timeline-entry" markdown>
 
-### Lecturer and Tutor
-*Mizoram University, Aizawl, India*
+### Online Lecturer and Tutor
 
 - Taught the fundamentals of remote sensing and environmental monitoring to university students.
 
