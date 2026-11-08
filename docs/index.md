@@ -17,7 +17,7 @@ hide:
 
 <h1 style="margin-bottom:0.5rem; color:white;">Mr.Ahmed Abdallah Adam</h1>
 
-<h3 style="margin-top:0; color: rgba(255,255,255,0.88); font-weight:600;">Ph.D. Scholar | Ecpology, Geospatial & Remote Sensing Expert</h3>
+<h3 style="margin-top:0; color: rgba(255,255,255,0.88); font-weight:600;">Ph.D. Scholar | Geospatial & Remote Sensing Expert</h3>
 
 <p style="font-size:1.15rem; margin-top:1rem; color: rgba(255,255,255,0.92);">Environmental Monitoring • Climate Change • GeoAI • Google Earth Engine</p>
 
