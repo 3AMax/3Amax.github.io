@@ -21,7 +21,7 @@ hide:
 
 <p style="font-size:1.15rem; margin-top:1rem; color: rgba(255,255,255,0.92);">Environmental Monitoring • Climate Change • GeoAI • Google Earth Engine</p>
 
-<p style="margin-top:1.5rem;"><a href="../assets/images/Adam-CV.pdf" class="md-button md-button--primary" target="_blank">Download CV</a></p>
+<p style="margin-top:1.5rem;"><a href="../assets/Adam-CV.pdf" class="md-button md-button--primary" target="_blank">Download CV</a></p>
 
 </div>
 
