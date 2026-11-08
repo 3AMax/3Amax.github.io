@@ -9,11 +9,11 @@ hide:
 
 <div style="padding: 6rem 1rem 5rem; text-align: center; position: relative; overflow: hidden; border-radius: 24px; color: white;">
 
-<div style="position: absolute; inset: 0; background-image: url('../assets/Backround_1.png'); background-size: cover; background-position: center; filter: blur(4px) brightness(0.55); transform: scale(1.05); z-index: 0;"></div>
+<div style="position: absolute; inset: 0; background-image: url('../assets/Backround_1.png'); background-size: contain; background-repeat: no-repeat; background-position: center; filter: blur(2px) brightness(0.7); transform: scale(1.05); z-index: 0;"></div>
 
 <div style="position: relative; z-index: 1;">
 
-<img src="../assets/Logo.png" alt="Ahmed Abdallah Adam" style="width: 280px; height: 280px; object-fit: cover; border-radius: 50%; border: 6px solid white; box-shadow: 0 12px 32px rgba(0,0,0,.35); margin-bottom: 1.5rem;" />
+<img src="../assets/Logo.png" alt="Ahmed Abdallah Adam (Max) " style="width: 280px; height: 280px; object-fit: cover; border-radius: 50%; border: 6px solid white; box-shadow: 0 12px 32px rgba(0,0,0,.35); margin-bottom: 1.5rem;" />
 
 <h1 style="margin-bottom:0.5rem; color:white;">Ahmed Abdallah Adam</h1>
 
