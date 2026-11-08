@@ -13,7 +13,7 @@ hide:
 
 <div style="position: relative; z-index: 1;">
 
-<img src="../assets/Logo.png" alt="Ahmed Abdallah Adam (Max) " style="width: 280px; height: 280px; object-fit: cover; border-radius: 50%; border: 6px solid white; box-shadow: 0 12px 32px rgba(0,0,0,.35); margin-bottom: 1.5rem;" />
+<img src="../assets/Logo.png" alt="Ahmed Abdallah Adam " style="width: 280px; height: 280px; object-fit: cover; border-radius: 50%; border: 6px solid white; box-shadow: 0 12px 32px rgba(0,0,0,.35); margin-bottom: 1.5rem;" />
 
 <h1 style="margin-bottom:0.5rem; color:white;">Ahmed Abdallah Adam</h1>
 
