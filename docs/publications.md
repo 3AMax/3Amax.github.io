@@ -11,6 +11,13 @@ hide:
 
 ---
 
+### Satellite-based drought assessment in major Sudan's mechanized rain-fed agriculture
+**Adam, A. A.**, Musa, F. I., Lalruatkimi, C., Yasin, E. H. E., Thawmmawii, L., Alfadol, A. I. A., Khanna, N., Paul, A., Tripathi, O. P., et al.  
+*Scientific Reports*, 16, article 18650, 2026  
+[:material-link: https://doi.org/10.1038/s41598-026-49618-5](https://doi.org/10.1038/s41598-026-49618-5)
+
+---
+
 ### Land cover change and vegetation trends in South Darfur Sudan using dynamic world
 Ahmed, A., **Adam, A. A.**, Mohammed, M. A. A., & Czimber, K.  
 *Scientific Reports*, 2026 (In Press)  
